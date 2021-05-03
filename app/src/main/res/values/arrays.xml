@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_city_names">
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Vladimir</item>
+        <item>Gelendzhik</item>
+        <item>Sochi</item>
+        <item>Yekaterinburg</item>
+        <item>Murmansk</item>
+        <item>Kaliningrad</item>
+        <item>Novosibirsk</item>
+    </string-array>
+</resources>
